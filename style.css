@@ -1,6 +1,6 @@
 h1{
        font-size:120px;
-       color:lightblue;
+       color:blue;
 }
 body{
        background: url(softball.jpg) no-repeat center center fixed;
@@ -11,5 +11,9 @@ body{
 }
 #first{
 	font-size:70px;
-	color:pink;
+	color:red;
+}
+#second{
+        font-size:50px:
+        color:pink;
 }
