@@ -8,4 +8,8 @@ body{
        -moz-background-size: cover;
        -o-background-size: cover;
        background-size: cover;
+}
+#first{
+	font-size:50px;
+	color:red;]
 } 
