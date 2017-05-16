@@ -23,3 +23,8 @@ li{
 	Height:auto;
 	width:50%
 }
+p{
+        font-size:30px;
+        color:lightblue;
+        font-family: 'Pacifico', cursive;
+}
