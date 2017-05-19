@@ -1,6 +1,9 @@
 h1{
        font-size:120px;
        color:blue;
+       animation-name: colorchange;
+       animation-duration:10s;
+       animation-iteration-count: infinite;
 }
 body{
        background: url(softball.jpg) no-repeat center center fixed;
@@ -28,3 +31,14 @@ P{
         color:blue;
         font-family: 'Pacifico', cursive;
 }
+@keyframes colorchanges{
+       0%{color:blue;
+         font-size:100px;}
+       25%{color:red;
+          font-size:80px;}
+       50%{color:purple;
+          font-size:100px;}
+       75%{color:black;
+          font-size:80px;}
+       100%{color:pink;
+          font-size:100px;}
