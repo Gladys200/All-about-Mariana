@@ -2,7 +2,7 @@ h1{
        font-size:120px;
        color:blue;
        animation-name: colorchanges;
-       animation-duration:1s;
+       animation-duration:5s;
        animation-iteration-count: infinite;
 }
 body{
