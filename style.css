@@ -1,7 +1,7 @@
 h1{
        font-size:120px;
        color:blue;
-       animation-name: colorchange;
+       animation-name: colorchanges;
        animation-duration:10s;
        animation-iteration-count: infinite;
 }
